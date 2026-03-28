@@ -1,0 +1,52 @@
+
+#header-nav {
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+    margin-bottom: 0;
+}
+
+.navbar-brand h1 {
+    color: #555;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+}
+
+#collapsable-nav {
+    background-color: #ffffff;
+    border: none;
+    text-align: center;
+}
+
+#nav-list li a {
+    color: #555;
+    border-bottom: 1px solid #E7E7E7;
+}
+
+
+#menu-title {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: bold;
+    color: #000;
+}
+
+
+#content-box {
+    background-color: #999999;
+    color: white;
+    padding: 20px;
+    margin-bottom: 30px;
+
+    min-height: 1000px;
+}
+
+#content-box p {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
