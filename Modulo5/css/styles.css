@@ -1,0 +1,26 @@
+#specials-tile, #menu-tile, #map-tile {
+    height: 250px;
+    width: 100%;
+    margin-bottom: 15px;
+    position: relative;
+    border: 2px solid #3F0C05;
+    overflow: hidden;
+}
+
+#specials-tile {
+    background: url('../images/specials-tile.jpg') no-repeat;
+    background-position: center;
+}
+
+#specials-tile span, #menu-tile span, #map-tile span {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 1.6em;
+    text-transform: uppercase;
+    background-color: #000;
+    color: #fff;
+    opacity: .8;
+}
